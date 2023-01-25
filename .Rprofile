@@ -4,7 +4,7 @@ source("renv/activate.R")
 load.pkg("rvest")
 
 # Text mining
-load.pkg("RMeCab")
+# load.pkg("RMeCab")
 load.pkg("wordcloud")
 load.pkg("RColorBrewer")
 load.pkg("wordcloud2")
