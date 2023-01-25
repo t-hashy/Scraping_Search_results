@@ -1,0 +1,3 @@
+default:
+  DATA_DIR: "./Data"
+  SCRIPT_DIR: "./R"
